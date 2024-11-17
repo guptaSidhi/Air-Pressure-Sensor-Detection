@@ -9,4 +9,7 @@ xgboost
 miceforest
 kneed
 prettytable
+pymongo
+python-dotenv
+pymongo[srv]==4.2.0
 -e . 
